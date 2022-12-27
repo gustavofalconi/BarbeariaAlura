@@ -246,7 +246,7 @@ td, th {
     margin: 2em auto;
 }
 
-@media screen and (max-width: 959px) {
+@media screen and (max-width: 939px) {
     .caixa, .principal, .conteudo-beneficios, .mapa-conteudo, .video, .produtos, .produtos li {
         width: auto;
     }
